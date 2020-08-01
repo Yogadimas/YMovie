@@ -6,4 +6,4 @@ Using the API from themoviedb.org
 Made by Yoga Dimas
 
 # Screenshot
-![ss_ymovie](https://user-images.githubusercontent.com/60217207/89091810-bcaae580-d3d6-11ea-9a99-712ea51561ca.png)
+![ss_ymovie](https://user-images.githubusercontent.com/60217207/89091877-465ab300-d3d7-11ea-82c9-282aab5fa1fe.png)

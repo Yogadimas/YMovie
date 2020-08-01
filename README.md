@@ -1,6 +1,8 @@
 # YMovie
-An application that displays information on films and tv series
+An application that displays information on films and tv series.
+
 Using the API from themoviedb.org
+
 Made by Yoga Dimas
 
 # Screenshot

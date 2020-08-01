@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YMovieSub4.iml" filepath="$PROJECT_DIR$/.idea/modules/YMovieSub4.iml" group="YMovieSub4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="YMovieSub4/app" />
+    </modules>
+  </component>
+</project>

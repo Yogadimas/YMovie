@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/menu_movie"
+        android:icon="@drawable/ic_movie"
+        android:title="@string/movie" />
+
+    <item
+        android:id="@+id/menu_tv"
+        android:icon="@drawable/ic_tv"
+        android:title="@string/tv"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/menu_movieFavorite"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/movie_favorite"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/menu_tvFavorite"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/tv_favorite"
+        app:showAsAction="collapseActionView" />
+
+
+</menu>
